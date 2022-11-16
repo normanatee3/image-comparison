@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.customButton{
+  background-color: red;
+}
+.picContainer{
+  display: flex;
+  justify-content: space-around;
+}
+.picFrame{
+  max-width: 400px;
+}
