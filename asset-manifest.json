@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/image-comparison/static/css/main.03f54080.css",
+    "main.js": "/image-comparison/static/js/main.e3383620.js",
+    "index.html": "/image-comparison/index.html",
+    "main.03f54080.css.map": "/image-comparison/static/css/main.03f54080.css.map",
+    "main.e3383620.js.map": "/image-comparison/static/js/main.e3383620.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03f54080.css",
+    "static/js/main.e3383620.js"
+  ]
+}
